@@ -1,6 +1,4 @@
-# Project Title
-
-Kendrick Lamar Fan Page
+# Kendrick Lamar Fan Page
 
 ![alt text](http://bit.ly/2x30G0f "Kendrick Lamar Fanpage")
 
