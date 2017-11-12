@@ -1,5 +1,5 @@
 # Kendrick Lamar Fan Page
-<img src="https://d26dzxoao6i3hh.cloudfront.net/items/1z3I3k3o3P090X1x1I17/Screen%20Recording%202017-11-11%20at%2010.11%20PM.gif?v=14bd6425?raw=true">
+<img src="/img/Screen Recording 2017-11-11 at 10.11 PM.gif?raw=true">
 
 ### Installing
 
