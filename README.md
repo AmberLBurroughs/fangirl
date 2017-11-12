@@ -1,6 +1,8 @@
 # Kendrick Lamar Fan Page
+<img src="https://d26dzxoao6i3hh.cloudfront.net/items/1z3I3k3o3P090X1x1I17/Screen%20Recording%202017-11-11%20at%2010.11%20PM.gif?v=14bd6425?raw=true">
+
 ### Installing
-<!-- https://d26dzxoao6i3hh.cloudfront.net/items/1z3I3k3o3P090X1x1I17/Screen%20Recording%202017-11-11%20at%2010.11%20PM.gif?v=14bd6425 -->
+
 Clone to a local repo. Enjoy!
 
 ## Deployment
